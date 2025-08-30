@@ -193,8 +193,8 @@ export default function Instructor() {
               ))}
             </div>
             <blockquote className="text-xl md:text-2xl font-medium mb-8 max-w-4xl mx-auto leading-relaxed">
-              "AI時代の開発者として必要なスキルを、実践的に学べる最高の講座です。
-              田中さんの指導のもと、開発効率が劇的に向上しました。"
+              &quot;AI時代の開発者として必要なスキルを、実践的に学べる最高の講座です。
+              田中さんの指導のもと、開発効率が劇的に向上しました。&quot;
             </blockquote>
             <div className="flex items-center justify-center gap-4">
               <div className="w-12 h-12 rounded-full bg-gradient-to-r from-blue-400 to-purple-600 flex items-center justify-center">

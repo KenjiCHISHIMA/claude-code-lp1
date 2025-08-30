@@ -175,7 +175,7 @@ export default function Footer() {
               viewport={{ once: true }}
               className="flex items-center gap-4"
             >
-              {socialLinks.map((social, index) => (
+              {socialLinks.map((social) => (
                 <motion.a
                   key={social.name}
                   href={social.href}
